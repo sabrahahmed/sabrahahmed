@@ -6,10 +6,9 @@
 </h3>
 
 
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Computer+Science+Specialist;Student+At+UofT;Software+Developer;&center=true&width=360&color=%23A121B3&height=50">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+Intern+@+HubSpot;Computer+Engineering+Co-op+Student;At+McMaster+University;" alt="Typing SVG">
    </a>
 </p>
 
