@@ -8,11 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+Intern+@+HubSpot;Computer+Engineering+Co-op+Student;At+McMaster+University;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+Intern+@+HubSpot;Computer+Engineering+Co-op+Student+@+McMaster+University;" alt="Typing SVG">
    </a>
 </p>
-
-<br>
 
 <div align="center">
   <a href="https://sabrahahmed.github.io/Portfolio/" target="_blank">
