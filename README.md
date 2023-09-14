@@ -15,15 +15,15 @@
 <br>
 
 <div align="center">
-  <a href="https://stephanmotha.netlify.app/" target="_blank">
+  <a href="https://sabrahahmed.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=green" alt="Website">
    </a>
   
-  <a href="https://www.linkedin.com/in/stephanmotha" target="_blank">
+  <a href="https://linkedin.com/in/ahmed-sabrah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://github.com/stephanmotha" target="_blank">
+  <a href="https://github.com/sabrahahmed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn">
   </a>
     
