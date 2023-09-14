@@ -9,9 +9,16 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+Intern+@+HubSpot;Computer+Engineering+Co-op+Student;At+McMaster+University;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Computer+Science+Specialist;Student+At+UofT;Software+Developer;&center=true&width=360&color=%23A121B3&height=50">
    </a>
 </p>
+
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stephanmotha&theme=nord_bright" /></a>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://stephanmotha.netlify.app/" target="_blank">
@@ -28,6 +35,9 @@
     
   
 </div>
+
+
+
 
 
 
