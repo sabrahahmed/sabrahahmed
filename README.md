@@ -5,10 +5,13 @@
   </h2>
 </h3>
 
-<h1 align="center" style="color: blue;">Ahmed Sabrah</h1>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+Intern+@+HubSpot;Computer+Engineering+Co-op+Student;@+McMaster+University&center=true&width=460&color=blue&height=50">
-</p>
+<div>
+  <h1 align="center" style="color: blue;">Ahmed Sabrah</h1>
+  <p align="center">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+Intern+@+HubSpot;Computer+Engineering+Co-op+Student;@+McMaster+University&center=true&width=460&color=blue&height=50">
+  </p>
+</div>
+
 
 <div align="center">
   <a href="https://sabrahahmed.github.io/Portfolio/" target="_blank">
