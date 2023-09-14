@@ -1,16 +1,17 @@
 <h3 align="center">
   <h2 align="center">
     Hi There
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+Intern+@+HubSpot;Computer+Engineering+Co-op+Student;At+McMaster+University;" alt="Typing SVG">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </h2>
 </h3>
 
 
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stephanmotha&theme=nord_bright" /></a>
-</div>
 
-<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+Intern+@+HubSpot;Computer+Engineering+Co-op+Student;At+McMaster+University;" alt="Typing SVG">
+   </a>
+</p>
 
 <div align="center">
   <a href="https://stephanmotha.netlify.app/" target="_blank">
@@ -27,5 +28,9 @@
     
   
 </div>
+
+
+
+
 
 
