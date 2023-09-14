@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%20+Welcome+to+my+GitHub+Profile!;%20+Software+Engineer+Intern+@+HubSpot;Computer+Engineering+Co-op+Student;%20+%20+@+McMaster+University;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile;Software+Engineer+Intern+@+HubSpot;Computer+Engineering+Co-op+Student;@+McMaster+University&center=true&width=360&color=%23A121B3&height=50)](https://git.io/typing-svg)
    </a>
 </p>
 
